@@ -2,6 +2,9 @@
 
 T02 REPO LINKS:
 
+Team 1
+- https://github.com/verycoldyiting/MAD25_T02_Team1.git
+
 Team3
 - https://github.com/Pyongxiang/MAD25_T02_Team3.git
 
