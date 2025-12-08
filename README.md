@@ -17,8 +17,16 @@ Team 4 (Lavaniya)
 
 T01 REPO LINKS:
 
-Team1
+Team 1 (Lucas)
 - https://github.com/JaymeChua/MAD25_T01_Team1
 
-Team4
+Team 2 (Joseph)
+
+-https://github.com/josephwan21/MAD25_T01_Team2.git
+
+Team 3 (Zhi Zhong)
+
+-https://github.com/whyjsjejwj/MAD25_T01_Team03.git
+
+Team 4 (Kai Yu)
 - https://github.com/yongkaiyu/MAD25_T01_Team04
